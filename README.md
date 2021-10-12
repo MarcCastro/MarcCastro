@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Marcos Castro 👋
 
 - 🌱 Estudando Java
-- 👯 I’m looking to collaborate on ...
 - 😄 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
@@ -14,5 +13,5 @@
 ##
 
 <div>
-  
+  <a href = "mailto:mfcastro9928@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>  
